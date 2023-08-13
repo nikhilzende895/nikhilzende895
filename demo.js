@@ -1,4 +1,4 @@
-let a = promt("What is your age");
+let a = prompt("What is your age");
 a = Number(a);
 
 if(a > 17) {
