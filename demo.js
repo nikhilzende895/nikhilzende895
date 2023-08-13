@@ -1,1 +1,1 @@
-prompt("What is your age");
+prompt("Bhavdya Vay kay Tuzz: ");
