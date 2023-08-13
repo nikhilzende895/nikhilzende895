@@ -10,3 +10,16 @@ body {
   border:5px solid black;
   border-radius:1rem;
 }
+
+.title {
+  border:2px solid black;
+  color:red;
+  background-color:pink;
+}
+
+.discription {
+  padding:2rem;
+  margin:2rem;
+  border:5px solid black;
+  border-radius:1rem;
+}
