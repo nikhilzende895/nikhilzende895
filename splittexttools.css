@@ -205,6 +205,10 @@
         margin: 1rem auto;
       }
 
+.hidden-toc-css {
+      display:none;
+}
+
       .faq-main-div .faq-div p {
         color: black;
         font-family: sans-serif;
