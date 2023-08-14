@@ -124,3 +124,89 @@
     .hidden-div-area {
       display: none;
     }
+
+
+  .top-header-div {
+        padding: 1rem;
+      }
+      .header-class-div {
+        align-items: center;
+        justify-content: center;
+        border: 1px solid black;
+        border-radius: 1rem;
+        width: 100%;
+        box-sizing: border-box;
+        background-color: aliceblue;
+      }
+      .header-class-div * {
+        font-family: sans-serif;
+        padding: 1rem;
+        display: block;
+        text-align: center;
+        color: black;
+      }
+
+      .post-area-divs h2 {
+        text-align: center;
+        font-family: sans-serif;
+        margin: 1rem auto;
+        color: black;
+      }
+
+      .post-area-divs {
+        box-sizing: border-box;
+        width: 100%;
+        margin: 1rem auto;
+      }
+      .post-area-header-div {
+        margin: 1rem;
+        border: 1px solid black;
+        padding: 1rem;
+        border-radius: 1rem;
+        background-color: aliceblue;
+      }
+
+      .post-area-divs .post-area-header-div p {
+        font-family: sans-serif;
+        color: black;
+      }
+
+      .post-area-divs .post-area-header-div li {
+        font-family: sans-serif;
+        margin: 0.5rem auto;
+      }
+
+      .post-area-header-div .warning-para span {
+        color: red;
+        font-weight: bold;
+      }
+
+      .faq-main-div {
+        padding: 1rem;
+        box-sizing: border-box;
+        width: 100%;
+      }
+      .faq-main-div .faq-div {
+        border: 1px solid black;
+        border-radius: 1rem;
+        background-color: aliceblue;
+        padding: 1rem;
+      }
+
+      .faq-main-div .faq-div h2 {
+        font-family: sans-serif;
+        color: black;
+        text-align: center;
+        margin: 1rem auto;
+      }
+      .faq-main-div .faq-div h3 {
+        font-family: sans-serif;
+        color: black;
+        margin: 1rem auto;
+      }
+
+      .faq-main-div .faq-div p {
+        color: black;
+        font-family: sans-serif;
+        margin: 1rem auto;
+      }
