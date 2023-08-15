@@ -1,0 +1,145 @@
+.top-header-div-container {
+        margin: 1rem auto;
+        padding: 0;
+        width: 100%;
+        border: 2px solid;
+        border-radius: 1.5rem;
+      }
+
+      .top-header-div-container * {
+        box-sizing: border-box;
+        font-family: "noto sans", sans-serif;
+        color: black;
+      }
+      .head {
+        padding: 1rem;
+      }
+      .head h1 {
+        font-family: "noto sans", sans-serif;
+        color: black;
+      }
+
+      .input-field {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 1rem;
+        margin: 1rem auto;
+        margin-bottom: 0;
+        padding-bottom: 0;
+      }
+      #input {
+        width: 100%;
+        padding: 1rem;
+        border: 2px solid orangered;
+        border-radius: 1.5rem;
+      }
+
+      .btn-result {
+        width: 100%;
+        box-sizing: border-box;
+        background-color: rgb(233, 233, 233);
+        margin: 1rem auto;
+      }
+
+      .btn-result > .Btn {
+        width: 100%;
+        padding: 1rem;
+        margin: 1rem auto;
+        display: flex;
+        justify-content: space-around;
+      }
+
+      .btn-result > .result {
+        padding-bottom: 1rem;
+        margin: 1rem auto;
+      }
+      #n,
+      #b {
+        color: black;
+        background-color: orange;
+        font-family: "noto sans", sans-serif;
+        padding: 0.5rem 1rem;
+        border-radius: 1rem;
+        border: 1px solid black;
+      }
+
+      #n:hover,
+      #b:hover {
+        background-color: orangered;
+      }
+      .result > #answer {
+        color: black;
+        font-weight: bold;
+      }
+
+      .post-area-div {
+        box-sizing: border-box;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+      }
+      .post-area-div h2,
+      .post-area-div h3,
+      .post-area-div h4 {
+        color: black;
+        font-family: "noto sans", sans-serif;
+        text-align: center;
+        margin: 1rem auto;
+      }
+      .post-area-div p {
+        color: black;
+        font-family: "noto sans", sans-serif;
+        margin: 1rem;
+      }
+      .how-to-use-div {
+        margin: 1rem;
+        padding: 1rem;
+        border: 1px solid black;
+        border-radius: 1rem;
+        background-color: aliceblue;
+      }
+
+      .how-to-use-div li {
+        margin: 0.7rem auto;
+        font-family: "not sans", sans-serif;
+      }
+
+      .how-to-convet-div {
+        margin: 1rem;
+        padding: 1rem;
+        border: 1px solid black;
+        border-radius: 1rem;
+        background-color: aliceblue;
+      }
+      .example-div {
+        width: 100%;
+        margin: 1rem auto;
+      }
+
+      .ntable {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+      }
+
+      .ntable td,
+      .ntable th {
+        border: 1px solid #000000;
+        text-align: left;
+        padding: 8px;
+      }
+
+      .bnr-convet-table {
+        width: 100%;
+        box-sizing: border-box;
+        margin: 1rem auto;
+      }
+      .last-table-div {
+        box-sizing: border-box;
+        padding: 1rem;
+        width: 100%;
+        margin: 1rem auto;
+        border: 1px solid black;
+        border-radius: 1rem;
+        background-color: aliceblue;
+      }
