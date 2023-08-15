@@ -126,7 +126,7 @@
 
       .ntable td,
       .ntable th {
-        border: 1px solid #000000;
+        border: 1px solid black;
         text-align: left;
         padding: 8px;
         color:black;
