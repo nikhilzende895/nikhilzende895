@@ -102,6 +102,7 @@
       .how-to-use-div li {
         margin: 0.7rem auto;
         font-family: "not sans", sans-serif;
+        color:black;
       }
 
       .how-to-convet-div {
@@ -120,6 +121,7 @@
         font-family: arial, sans-serif;
         border-collapse: collapse;
         width: 100%;
+        color:black;
       }
 
       .ntable td,
@@ -127,6 +129,7 @@
         border: 1px solid #000000;
         text-align: left;
         padding: 8px;
+        color:black;
       }
 
       .bnr-convet-table {
