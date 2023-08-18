@@ -1,0 +1,48 @@
+#gfg,
+      .ip-div h3 {
+        color: black;
+        font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+      }
+
+      .ip-div {
+        padding: 1rem;
+        border: 2px solid black;
+        border-radius: 1rem;
+        background-color: rgb(36, 230, 30);
+        margin: 1rem auto;
+      }
+      .ip-div2 {
+        padding: 0.5rem;
+        border: 2px solid black;
+        border-radius: 1rem;
+        background-color: aliceblue;
+        margin: 1rem auto;
+      }
+
+      .ip-div2 h2,
+      .ip-div2 h3,
+      .ip-div2 h4 {
+        font-family: sans-serif;
+        color: black;
+        text-align: center;
+      }
+      .ip-div2 p {
+        font-family: sans-serif;
+        margin: 1rem;
+        color: black;
+      }
+
+      #gfg {
+        width: auto;
+        display: inline-block;
+      }
+
+      .hidden-toc-css {
+        display: none;
+      }
+
+      .ip-div2 ul li {
+        margin: 0.5rem;
+        color: black;
+        font-family: sans-serif;
+      }
