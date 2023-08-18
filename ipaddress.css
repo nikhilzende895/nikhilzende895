@@ -8,7 +8,7 @@
         padding: 1rem;
         border: 2px solid black;
         border-radius: 1rem;
-        background-color: rgb(36, 230, 30);
+        background-color: aliceblue;
         margin: 1rem auto;
       }
       .ip-div2 {
@@ -45,4 +45,12 @@
         margin: 0.5rem;
         color: black;
         font-family: sans-serif;
+      }
+#myIframe-id {
+        width: 100%;
+        border: 1px solid;
+        margin: 1rem auto 0.5rem auto;
+      }
+      .details-div {
+        padding: 1rem;
       }
